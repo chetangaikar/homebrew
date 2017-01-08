@@ -1,4 +1,4 @@
-class MysqlAT55 < Formula
+class Mysql55 < Formula
   desc "Open source relational database management system"
   homepage "http://dev.mysql.com/doc/refman/5.5/en/"
   url "https://github.com/mysql/mysql-server/archive/mysql-5.5.53.tar.gz"
