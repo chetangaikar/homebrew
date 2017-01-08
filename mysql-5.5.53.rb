@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class MysqlServer < Formula
+class Mysql5553 < Formula
   desc ""
   homepage ""
   url "https://github.com/mysql/mysql-server/archive/mysql-5.5.53.tar.gz"
